@@ -1,4 +1,4 @@
-require(devtools)
+require(remotes)
 require(usethis)
 require(ggplot2)
 

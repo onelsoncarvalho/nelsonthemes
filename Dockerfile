@@ -16,6 +16,7 @@ RUN apt-get update && apt-get install -y \
 RUN install2.r --error --skipinstalled --deps TRUE \
   usethis \
   devtools \
+  remotes \
   magick \
   hexSticker \
   && rm -rf /tmp/downloaded_packages/

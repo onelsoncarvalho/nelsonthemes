@@ -12,11 +12,11 @@ The goal of nelsonthemes is to provide production-ready plot themes
 ## Installation
 
 You can install the of nelsonthemes from
-[GitHub](https://github.com/Nelson-DevStack/nelsonthemes) with:
+[GitHub](https://github.com/onelsoncarvalho/nelsonthemes) with:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("Nelson-DevStack/nelsonthemes)
+# install.packages("remotes")
+remotes::install_github("onelsoncarvalho/nelsonthemes)
 ```
 
 ## Usage
